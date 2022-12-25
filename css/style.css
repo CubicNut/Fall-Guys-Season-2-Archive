@@ -1,0 +1,76 @@
+header img {
+    width: 100%;
+}
+
+body {
+    font-size: 17.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.block_1 div {
+    display: inline-block;
+    width: 360px;
+    margin: 80px 20px 0px;
+}
+
+.block_1 img {
+    width: 360px;
+}
+
+.block_1 div p {
+    margin-top: 40px;
+}
+
+main {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.block_2 {
+    margin-top: 160px;
+}
+
+.block_img {
+    display: inline-block;
+}
+
+.block_img img {
+    width: 640px;
+    height: 400px;
+}
+
+ .div_text p {
+    width: 547px;
+    position: relative;
+    top: 300px;
+    float: right;
+}
+
+.div_img img {
+    width: 500px;
+    height: 400px;
+    float: right;
+}
+
+.div_text h1 {
+    font-size: 35px;
+    display: inline-block;
+    left: 800px;
+    position: relative;
+    top: 40px;
+}
+
+.head_img_text {
+    margin-top: 120px;
+}
+
+.img_skin img {
+    width: 260px;
+    height: 280px;
+    margin: 20px;
+}
+
+.block_1 div img {
+    width: 360px;
+    height: 200px;
+}
